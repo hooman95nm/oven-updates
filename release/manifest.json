@@ -1,13 +1,13 @@
 {
   "product": "riverdi-eve-demo-esp32",
   "release": "2026.11.1",
-  "created": "2026-11-01T06:05:05+00:00",
+  "created": "2026-11-01T06:44:58+00:00",
   "firmware": {
-    "sha": "b9183869",
+    "sha": "8c0be462",
     "version": "c7c26c1-dirty",
-    "url": "firmware-b9183869.bin",
-    "size": 953584,
-    "sha256": "4b5bfc327ed2ac7d673e0f7cc958773a5da8d3de189da6ddf625bfd2d67c700b"
+    "url": "firmware-8c0be462.bin",
+    "size": 958640,
+    "sha256": "1f19fd5f6736eb997e6e77426607b23a9a7abbf261c0ca49aab546a73311dc63"
   },
   "images": {
     "id": "3078b765",
